@@ -4,7 +4,7 @@ This repository hosts the source code for a LinkedIn clone built with Next.js, T
 
 ## Demo
 
-- Live Preview: [https://food-delivery-frontend-s2l9.onrender.com/](https://food-delivery-frontend-s2l9.onrender.com/)
+- Live Preview: [https://linkedin-clone-by-shan.vercel.app/](https://linkedin-clone-by-shan.vercel.app/)
 
 ## Features
 
